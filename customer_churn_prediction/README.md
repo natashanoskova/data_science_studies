@@ -7,7 +7,7 @@
 
 | Задачи | Алгоритмы и Модели | Метрики | Стек |
 | :--- | :--- | :--- | :--- |
-| • Объединение и предобработка данных<br>• Проектирование признаков (Feature Engineering)<br>• Продвинутый разведочный анализ (EDA)<br>• Обучение моделей и подбор гиперпараметров | • CatBoost Classifier<br>• LGBM Classifier<br>• Random Forest Classifier | **Основная:**<br>AUC-ROC ⩾ 0.85<br><br>**Дополнительная:**<br>Accuracy | Python, Pandas, NumPy, Phik, Statsmodels, Scikit-learn, CatBoost, LightGBM, Plotly |
+| • Объединение и предобработка данных<br>• Проектирование признаков (Feature Engineering)<br>• Продвинутый разведочный анализ (EDA)<br>• Обучение моделей и подбор гиперпараметров | • CatBoost Classifier<br>• LGBM Classifier<br>• Random Forest Classifier | **Основная:**<br>AUC-ROC ⩾ 0.85<br><br>**Дополнительная:**<br>Accuracy | Python, Pandas, NumPy, Phik, Statsmodels, Scikit-learn, CatBoost, LightGBM, Plotly / Cufflinks |
 
 ## Наблюдения и ключевые выводы
 
